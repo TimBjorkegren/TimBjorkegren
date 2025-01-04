@@ -1,21 +1,15 @@
-## Hi there 👋
+
 ## 📈 **My GitHub Stats**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TimBjorkegren&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimBjorkegren&layout=compact&hide_border=true&theme=radical" />
 </div>
-<!--
-**TimBjorkegren/TimBjorkegren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/chillout32/SkibidiHotels">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimBjorkegren&repo=SkibidiHotels
+&theme=radical" />
+</a>
+<a href="https://github.com/TimBjorkegren/Pokedex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimBjorkegren&repo=Pokedex&theme=radical" />
+</a>
