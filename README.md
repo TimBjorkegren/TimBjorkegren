@@ -1,5 +1,10 @@
 ## Hi there 👋
+## 📈 **My GitHub Stats**
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TimBjorkegren&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimBjorkegren&layout=compact&hide_border=true&theme=radical" />
+</div>
 <!--
 **TimBjorkegren/TimBjorkegren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
