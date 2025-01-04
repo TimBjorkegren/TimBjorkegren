@@ -7,8 +7,7 @@
 </div>
 
 <a href="https://github.com/chillout32/SkibidiHotels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chillout32&repo=SkibidiHotels
-&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chillout32&repo=SkibidiHotels&theme=radical" />
 </a>
 <a href="https://github.com/TimBjorkegren/Pokedex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimBjorkegren&repo=Pokedex&theme=radical" />
