@@ -7,7 +7,7 @@
 </div>
 
 ## 🚧 **My GitHub Projects**
-<a href="https://github.com/chillout32/SkibidiHotels">
+<a href="https://github.com/davezargar/CRM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davezargar&repo=CRM&theme=radical" />
 </a>
 <a href="https://github.com/TimBjorkegren/Pokedex">
