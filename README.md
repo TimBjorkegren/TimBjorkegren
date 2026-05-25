@@ -1,4 +1,5 @@
-# Tim Björkegren
+# Hello, my name is Tim Björkegren
+## Here's a little information about me
 
 Full-stack developer with a focus on modern web apps, automation, and AI-driven solutions.
 
@@ -6,7 +7,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 ## 🚀 Bästa projekt
 
-### 🔹 Projekt 1
+### 🔹 Project 1
 
 **AI-powered quiz platform for generating questions about documents. The purpose is to increase students learning ability**
 
@@ -23,7 +24,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 ---
 
-### 🔹 Projekt 2
+### 🔹 Project 2
 
 **AI and language-focused chat application built for intelligent text processing and automation.**
 
