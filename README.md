@@ -1,5 +1,5 @@
-# Hello, my name is Tim Björkegren
-## Here's a little information about me
+# Hello, my name is Tim Björkegren 
+Here's a little information about me
 
 Full-stack developer with a focus on modern web apps, automation, and AI-driven solutions.
 
