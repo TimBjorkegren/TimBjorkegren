@@ -5,7 +5,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 ---
 
-## 🚀 Best projects
+## 🚀 Best top 3 public projects
 
 ### 🔹 Project 1
 
