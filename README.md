@@ -46,7 +46,8 @@ REACT, Tailwind, HTML/CSS, JavaScript
 ## Backend
 Python, C#, .NET, PostgreSQL, Node.js
 ## AI
-Scikit-learn, MCP Tools, Python, local LLM's, RAG system, Prompt Engineering, AI agents 
+Scikit-learn, MCP Tools, Python, local LLM's, RAG system, Prompt Engineering, AI agents
+
 ---
 
 # 📊 GitHub Statistics
@@ -60,26 +61,3 @@ Scikit-learn, MCP Tools, Python, local LLM's, RAG system, Prompt Engineering, AI
 ## ⚡ Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TimBjorkegren&theme=tokyonight)
-
-
----
-
-# 🧠 Skill Level
-
-## Backend
-
-██████████░░ 80%
-
-## Frontend
-
-█████████░░░ 75%
-
-## DevOps
-
-███████░░░░ 60%
-
-## AI / Automation
-
-███████████░ 95%
-
-#
