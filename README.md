@@ -49,29 +49,18 @@ Python, C#, .NET, PostgreSQL, Node.js
 Scikit-learn, MCP Tools, Python, local LLM's, RAG system, Prompt Engineering, AI agents 
 ---
 
-# 📊 GitHub Statistik
+# 📊 GitHub Statistics
 
 ## 🔥 GitHub Stats
 
-```md
-https://github-readme-stats.vercel.app/api?username=TimBjorkegren&show_icons=true&theme=tokyonight
-```
-
----
-
-## 💻 Most used language
-
-```md
-https://github-readme-stats.vercel.app/api/top-langs/?username=TimBjorkegren&layout=compact&theme=tokyonight
-```
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TimBjorkegren&show_icons=true&theme=tokyonight)
 
 ---
 
 ## ⚡ Contribution Streak
 
-```md
-https://streak-stats.demolab.com/?user=TimBjorkegren&theme=tokyonight
-```
+![GitHub Streak](https://streak-stats.demolab.com/?user=TimBjorkegren&theme=tokyonight)
+
 
 ---
 
