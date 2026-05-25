@@ -30,7 +30,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 **AI and language-focused chat application built for intelligent text processing and automation.**
 
 * Tech stack: Python, AI APIs, NLP, FastAPI
-* Funktioner:
+* Functions:
 
 * AI-powered text processing
 * NLP capabilities and language management
@@ -46,7 +46,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 **AI-powered sign language recognition app built with computer vision and deep learning.**
 
 * Tech stack: Python, TensorFlow/Keras, OpenCV, MediaPipe, Streamlit, WebRTC
-* Funktioner:
+* Functions:
 
 * Real-time hand tracking via webcam
 * CNN model trained on Sign Language MNIST
