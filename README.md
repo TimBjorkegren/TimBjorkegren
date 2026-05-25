@@ -20,6 +20,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 * API integrated backend
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/BookQ](https://github.com/TimBjorkegren/BookQ)
+
 🔗 Url: [http://143.14.50.18:3000](http://143.14.50.18:3000)
 
 ---
@@ -37,6 +38,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 * Backend for intelligent data management
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/Lexi](https://github.com/TimBjorkegren/Lexi)
+
 🔗 Url: [chattlexi.streamlit.app](chattlexi.streamlit.app/)
 
 ### 🔹 Project 3
@@ -53,6 +55,8 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 * Streamlit web app for interactive testing
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/sign-language-mnist](https://github.com/TimBjorkegren/sign-language-mnist)
+
+🔗 Url: [https://sign-language-mnist-53p3kyvkxaducr5qhw8mcm.streamlit.app/](https://sign-language-mnist-53p3kyvkxaducr5qhw8mcm.streamlit.app/)
 
 ---
 
