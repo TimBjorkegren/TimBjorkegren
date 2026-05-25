@@ -39,7 +39,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/Lexi](https://github.com/TimBjorkegren/Lexi)
 
-🔗 Url: [chattlexi.streamlit.app](chattlexi.streamlit.app/)
+🔗 Url: [https://chattlexi.streamlit.app/](https://chattlexi.streamlit.app/)
 
 ### 🔹 Project 3
 
