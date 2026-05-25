@@ -5,7 +5,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 ---
 
-## 🚀 Bästa projekt
+## 🚀 Best projects
 
 ### 🔹 Project 1
 
@@ -61,7 +61,7 @@ https://github-readme-stats.vercel.app/api?username=TimBjorkegren&show_icons=tru
 
 ---
 
-## 💻 Mest använda språk
+## 💻 Most used language
 
 ```md
 https://github-readme-stats.vercel.app/api/top-langs/?username=TimBjorkegren&layout=compact&theme=tokyonight
