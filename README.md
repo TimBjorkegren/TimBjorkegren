@@ -37,6 +37,21 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/Lexi](https://github.com/TimBjorkegren/Lexi)
 
+### 🔹 Project 3
+
+**AI-powered sign language recognition app built with computer vision and deep learning.**
+
+* Tech stack: Python, TensorFlow/Keras, OpenCV, MediaPipe, Streamlit, WebRTC
+* Funktioner:
+
+* Real-time hand tracking via webcam
+* CNN model trained on Sign Language MNIST
+* Image preprocessing for 28x28 grayscale hand signs
+* Live prediction of hand gestures/signs
+* Streamlit web app for interactive testing
+
+🔗 GitHub Repo: [https://github.com/TimBjorkegren/sign-language-mnist](https://github.com/TimBjorkegren/sign-language-mnist)
+
 ---
 
 # 🛠️ Tech Stack
