@@ -1,6 +1,6 @@
 # Tim Björkegren
 
-Fullstack-utvecklare med fokus på moderna webbappar, automation och AI-drivna lösningar.
+Full-stack developer with a focus on modern web apps, automation, and AI-driven solutions.
 
 ---
 
@@ -8,14 +8,16 @@ Fullstack-utvecklare med fokus på moderna webbappar, automation och AI-drivna l
 
 ### 🔹 Projekt 1
 
-**Kort beskrivning av projektet**
+**AI-powered quiz platform for generating questions about documents. The purpose is to increase students learning ability**
 
-* Tech stack: React, Node.js, PostgreSQL
-* Funktioner:
+* Tech stack: React, Node.js, PostgreSQL, TypeScript
+* Functions:
 
-  * Feature 1
-  * Feature 2
-  * Feature 3
+* Real-time bookings and scheduling
+* User authentication and dashboard
+* Responsive modern UI
+* API integrated backend
+* Database management for customers and bookings
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/BookQ](https://github.com/TimBjorkegren/BookQ)
 
@@ -23,31 +25,18 @@ Fullstack-utvecklare med fokus på moderna webbappar, automation och AI-drivna l
 
 ### 🔹 Projekt 2
 
-**Kort beskrivning av projektet**
+**AI and language-focused chat application built for intelligent text processing and automation.**
 
-* Tech stack: Next.js, TypeScript, Supabase
+* Tech stack: Python, AI APIs, NLP, FastAPI
 * Funktioner:
 
-  * Feature 1
-  * Feature 2
-  * Feature 3
+* AI-powered text processing
+* NLP capabilities and language management
+* API-based automation
+* Backend for intelligent data management
+* Scalable architecture for AI workflows
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/Lexi](https://github.com/TimBjorkegren/Lexi)
-
----
-
-### 🔹 Projekt 3
-
-**Kort beskrivning av projektet**
-
-* Tech stack: Python, FastAPI, Docker
-* Funktioner:
-
-  * Feature 1
-  * Feature 2
-  * Feature 3
-
-🔗 GitHub Repo: [https://github.com/USERNAME/REPO](https://github.com/USERNAME/REPO)
 
 ---
 
@@ -57,6 +46,8 @@ Fullstack-utvecklare med fokus på moderna webbappar, automation och AI-drivna l
 REACT, Tailwind, HTML/CSS, JavaScript
 ## Backend
 Python, C#, .NET, PostgreSQL, Node.js
+## AI
+Scikit-learn, MCP Tools, Python, local LLM's, RAG system, Prompt Engineering, AI agents 
 ---
 
 # 📊 GitHub Statistik
