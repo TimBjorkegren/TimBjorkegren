@@ -18,7 +18,6 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 * User authentication and dashboard
 * Responsive modern UI
 * API integrated backend
-* Database management for customers and bookings
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/BookQ](https://github.com/TimBjorkegren/BookQ)
 
@@ -35,7 +34,6 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 * NLP capabilities and language management
 * API-based automation
 * Backend for intelligent data management
-* Scalable architecture for AI workflows
 
 🔗 GitHub Repo: [https://github.com/TimBjorkegren/Lexi](https://github.com/TimBjorkegren/Lexi)
 
