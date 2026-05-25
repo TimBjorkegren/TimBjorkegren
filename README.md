@@ -7,7 +7,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 ## 🚀 Best top 3 public projects
 
-### 🔹 Project 1
+### 🔹 Project BookQ
 
 **AI-powered quiz platform for generating questions about documents. The purpose is to increase students learning ability**
 
@@ -25,7 +25,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 ---
 
-### 🔹 Project 2
+### 🔹 Project Lexi
 
 **AI and language-focused chat application built for intelligent text processing and automation.**
 
@@ -41,7 +41,7 @@ Full-stack developer with a focus on modern web apps, automation, and AI-driven 
 
 🔗 Url: [https://chattlexi.streamlit.app/](https://chattlexi.streamlit.app/)
 
-### 🔹 Project 3
+### 🔹 Project Hand sign detection
 
 **AI-powered sign language recognition app built with computer vision and deep learning.**
 
